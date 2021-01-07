@@ -1,4 +1,4 @@
-package com.hungry.book.springboot.web.domain.posts;
+package com.hungry.book.springboot.domain.posts;
 
 import org.junit.After;
 import org.junit.Test;

@@ -1,7 +1,7 @@
 package com.hungry.book.springboot.service.posts;
 
-import com.hungry.book.springboot.web.domain.posts.Posts;
-import com.hungry.book.springboot.web.domain.posts.PostsRepository;
+import com.hungry.book.springboot.domain.posts.Posts;
+import com.hungry.book.springboot.domain.posts.PostsRepository;
 import com.hungry.book.springboot.web.dto.PostsListResponseDto;
 import com.hungry.book.springboot.web.dto.PostsResponseDto;
 import com.hungry.book.springboot.web.dto.PostsSaveRequestDto;

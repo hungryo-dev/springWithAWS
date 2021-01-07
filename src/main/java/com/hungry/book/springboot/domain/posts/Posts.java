@@ -1,6 +1,6 @@
-package com.hungry.book.springboot.web.domain.posts;
+package com.hungry.book.springboot.domain.posts;
 
-import com.hungry.book.springboot.web.domain.BaseTimeEntity;
+import com.hungry.book.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
