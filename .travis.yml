@@ -19,5 +19,3 @@ notifications:
   email:
     recipients:
       - hungry87@nate.com
-
-# 테스트
